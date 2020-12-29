@@ -1,0 +1,298 @@
+0,25 tasse beurre   QUANTITE:0,25 tasse   INGREDIENT:beurre
+0,5 tasse sucre   QUANTITE:0,5 tasse   INGREDIENT:sucre
+2 bananes en purée   QUANTITE:2   INGREDIENT:bananes
+2 oeufs   QUANTITE:2   INGREDIENT:oeufs
+2 tasses farine   QUANTITE:2 tasses   INGREDIENT:farine
+2 cuillères à café poudre à pâte   QUANTITE:2 cuillères à café   INGREDIENT:poudre à pâte
+0,5 cuillère à café bicarbonate de sodium   QUANTITE:0,5 cuillère à café   INGREDIENT:bicarbonate de sodium
+0,5 cuillère à café sel   QUANTITE:0,5 cuillère à café   INGREDIENT:sel
+0,5 tasse lait   QUANTITE:0,5 tasse   INGREDIENT:lait
+1,5 tasse farine   QUANTITE:1,5 tasse   INGREDIENT:farine
+1 cuillère à café poudre à pâte   QUANTITE:1 cuillère à café   INGREDIENT:poudre à pâte
+0,25 tasse beurre   QUANTITE:0,25 tasse   INGREDIENT:beurre
+1 tasse sucre   QUANTITE:1 tasse   INGREDIENT:sucre
+1 tasse lait   QUANTITE:1 tasse   INGREDIENT:lait
+1 tasse sirop d'érable   QUANTITE:1 tasse   INGREDIENT:sirop d'érable
+1 tasse cassonade   QUANTITE:1 tasse   INGREDIENT:cassonade
+1 tasse eau bouillante   QUANTITE:1 tasse   INGREDIENT:eau bouillante
+0,25 tasse beurre   QUANTITE:0,25 tasse   INGREDIENT:beurre
+6 pommes vertes pelées, en tranches   QUANTITE:6   INGREDIENT:pommes vertes
+0,67 tasse sirop d'érable   QUANTITE:0,67 tasse   INGREDIENT:sirop d'érable
+0,75 tasse farine   QUANTITE:0,75 tasse   INGREDIENT:farine
+0,75 tasse gruau   QUANTITE:0,75 tasse   INGREDIENT:gruau
+0,5 tasse cassonade   QUANTITE:0,5 tasse   INGREDIENT:cassonade
+sel   QUANTITE:   INGREDIENT:sel
+0,5 tasse beurre   QUANTITE:0,5 tasse   INGREDIENT:beurre
+4 cuillères à soupe huile d'olive   QUANTITE:4 cuillères à soupe   INGREDIENT:huile d'olive
+2 cuillères à soupe jus de citron   QUANTITE:2 cuillères à soupe   INGREDIENT:jus de citron
+2 gousses d'ail   QUANTITE:2 gousses   INGREDIENT:ail
+1 cuillère à soupe moutarde de Dijon   QUANTITE:1 cuillère à soupe   INGREDIENT:moutarde de Dijon
+3 échalotes coupées finement   QUANTITE:3   INGREDIENT:échalotes
+8 champignons émincés   QUANTITE:8   INGREDIENT:champignons
+0,75 tasse vin blanc sec   QUANTITE:0,75 tasse   INGREDIENT:vin blanc sec
+2 tasses crème 35%   QUANTITE:2 tasses   INGREDIENT:crème 35%
+3 cuillères à soupe moutarde de Dijon   QUANTITE:3 cuillères à soupe   INGREDIENT:moutarde de Dijon
+1 pincée de muscade   QUANTITE:1 pincée   INGREDIENT:muscade
+poivre noir   QUANTITE:   INGREDIENT:poivre noir
+1 lb poitrine de poulet désossées et coupées en petits morceaux   QUANTITE:1 lb   INGREDIENT:poitrine de poulet
+2 cuillères à soupe (30 ml) fécule de maïs   QUANTITE:2 cuillères à soupe (30 ml)   INGREDIENT:fécule de maïs
+1 oeuf battu   QUANTITE:1   INGREDIENT:oeuf
+3 cuillères à soupe (45 ml) farine tout usage   QUANTITE:3 cuillères à soupe (45 ml)   INGREDIENT:farine tout usage
+0,5 cuillère à café (2 ml) poudre à pâte   QUANTITE:0,5 cuillère à café (2 ml)   INGREDIENT:poudre à pâte
+0,5 cuillère à café (2 ml) sel   QUANTITE:0,5 cuillère à café (2 ml)   INGREDIENT:sel
+0,25 tasse (65 ml) huile végétale   QUANTITE:0,25 tasse (65 ml)   INGREDIENT:huile végétale
+2 cuillères à café (10 ml) huile de sésame   QUANTITE:2 cuillères à café (10 ml)   INGREDIENT:huile de sésame
+1 cuillère à soupe (15 ml) gingembre râpé   QUANTITE:1 cuillère à soupe (15 ml)   INGREDIENT:gingembre
+0,25 tasse (65 ml) oignon vert coupés en biseaux   QUANTITE:0,25 tasse (65 ml)   INGREDIENT:oignon vert
+0,25 tasse (65 ml) eau ou au goût   QUANTITE:0,25 tasse (65 ml) ou au goût   INGREDIENT:eau
+2 cuillères à soupe (30 ml) vinaigre blanc   QUANTITE:2 cuillères à soupe (30 ml)   INGREDIENT:vinaigre blanc
+0,25 tasse (65 ml) sucre ou au goût   QUANTITE:0,25 tasse (65 ml) ou au goût   INGREDIENT:sucre
+1 cuillère à soupe (15 ml) fécule de maïs   QUANTITE1 cuillère à soupe (15 ml)   INGREDIENT:fécule de maïs
+1 cuillère à soupe (15 ml) sauce soya   QUANTITE:1 cuillère à soupe (15 ml)   INGREDIENT:sauce soya
+2 cuillères à soupe (30 ml) sauce aux huîtres   QUANTITE:2 cuillères à soupe (30 ml)   INGREDIENT:sauce aux huîtres
+2 cuillères à soupe (30 ml) ketchup   QUANTITE:2 cuillères à soupe (30 ml)   INGREDIENT:ketchup
+3 tasses pommes de terre en purée   QUANTITE:3 tasses   INGREDIENT:pommes de terre
+0,5 tasse fromage cheddar râpé   QUANTITE:0,5 tasse   INGREDIENT:fromage cheddar
+0,5 tasse mayonnaise   QUANTITE:0,5 tasse   INGREDIENT:mayonnaise
+0,25 tasse échalote hachées   QUANTITE:0,25 tasse   INGREDIENT:échalote
+1 oeuf battu   QUANTITE:1   INGREDIENT:oeuf
+2 boîtes de conserve (213 g) saumons   QUANTITE:2 boîtes de conserve (213 g)   INGREDIENT:saumons
+2 filets de porc   QUANTITE:2   INGREDIENT:filets de porc
+185 mL (3/4 tasse) sauce chili   QUANTITE:185 mL (3/4 tasse)   INGREDIENT:sauce chili
+125 mL (1/2 tasse) sirop d'érable   QUANTITE:125 mL (1/2 tasse)   INGREDIENT:sirop d'érable
+1 enveloppe soupe à l'oignon   QUANTITE:1 enveloppe   INGREDIENT:soupe à l'oignon
+1 rôti de 675 g (1 ½ lb) de filet mignon de bœuf (prélevé dans le centre du filet)   QUANTITE:1 rôti de 675 g (1 ½ lb)   INGREDIENT:filet mignon de bœuf
+30 ml (2 c. à soupe) d’huile d’olive   QUANTITE:30 ml (2 c. à soupe)   INGREDIENT:huile d’olive
+190 g (¾ tasse) de beurre non salé   QUANTITE:190 g (¾ tasse)   INGREDIENT:beurre non salé
+1 échalote française, hachée   QUANTITE:1   INGREDIENT:échalote française
+2,5 ml (½ c. à thé) de grains de poivre noir concassés   QUANTITE:2,5ml (½ c. à thé)   INGREDIENT:grains de poivre noir
+4 jaunes d’œufs   QUANTITE:4   INGREDIENT:jaunes d’œufs
+45 ml (3 c. à soupe) d’eau   QUANTITE:45 ml (3 c. à soupe)   INGREDIENT:eau
+30 ml (2 c. à soupe) de vinaigre de vin blanc   QUANTITE:30 ml (2 c. à soupe)   INGREDIENT:vinaigre de vin blanc
+7,5 ml (1 ½ c. à thé) d’estragon frais ciselé   QUANTITE:7,5 ml (1 ½ c. à thé)   INGREDIENT:estragon frais
+500 ml (2 tasses) de bouillon de poulet   QUANTITE:500 ml (2 tasses)   INGREDIENT:bouillon de poulet
+275 g (2 tasses) de pommes de terre rattes coupées en rondelles de 5 mm (¼ po) d’épaisseur   QUANTITE:275 g (2 tasses)   INGREDIENT:pommes de terre
+170 g (6 oz) d’oignons perlés, pelés et coupés en deux   QUANTITE:170 g (6 oz)   INGREDIENT:oignons perlés
+340 g (¾ lb) d’asperges, parées et coupées en tronçons de 4 cm (2 ½ po)   QUANTITE:340 g (¾ lb)   INGREDIENT:asperges
+6 oignons verts, coupés en tronçons de 4 cm (2 ½ po)   QUANTITE:6   INGREDIENT:oignons verts
+3 homards d’environ 340 g (¾ lb) chacun, décortiqués (les pinces entières et la chair coupée en morceaux)   QUANTITE:3 d’environ 340 g (¾ lb) chacun   INGREDIENT:homards
+Sel et poivre   QUANTITE:   INGREDIENT:Sel et poivre
+250 g de nouilles de riz   QUANTITE:250 g   INGREDIENT:nouilles de riz
+Préparation de la pâte épicée   QUANTITE:   INGREDIENT:
+1 petit piment rouge Thaï (type rawit)   QUANTITE:1   INGREDIENT:petit piment rouge Thaï (type rawit)
+2 gousses d’ail   QUANTITE:2 gousses   INGREDIENT:ail
+2 cébettes thaï   QUANTITE:2   INGREDIENT:cébettes thaï
+1 c. à s. de purée de tamarin   QUANTITE:1 c. à s.   INGREDIENT:purée de tamarin
+1 c. à c. de sucre   QUANTITE:1 c. à c.   INGREDIENT:sucre
+3 c. à s. de nam pla (nuoc-mâm)   QUANTITE:3 c. à s.   INGREDIENT:nam pla (nuoc-mâm)
+1 citron vert   QUANTITE:1   INGREDIENT:citron vert
+7 à 8 grosses crevettes roses   QUANTITE:7 à 8   INGREDIENT:grosses crevettes roses
+100 g de tofu ferme   QUANTITE:100 g   INGREDIENT:tofu ferme
+80 g de germes de soja   QUANTITE:80 g   INGREDIENT:germes de soja
+2 œufs   QUANTITE:2   INGREDIENT:œufs
+sel et poivre du moulin au goût   QUANTITE:au goût   INGREDIENT:sel et poivre du moulin
+40 g de cacahuètes torréfiées   QUANTITE:40 g   INGREDIENT:cacahuètes 
+½ botte de coriandre   QUANTITE:½ botte   INGREDIENT:coriandre
+1 citron vert   QUANTITE:1   INGREDIENT:citron vert
+3 c. à s. d’huile de sésame et arachide   QUANTITE:3 c. à s.   INGREDIENT:huile de sésame et arachide
+3 c. à s. de nam pla   QUANTITE:3 c. à s.   INGREDIENT:nam pla
+1 petit oignon rouge, émincé   QUANTITE:1   INGREDIENT:petit oignon rouge
+2 gousses d’ail, hachées   QUANTITE:2 gousses   INGREDIENT:ail
+45 ml (3 c. à soupe) d’huile d’olive   QUANTITE:45 ml (3 c. à soupe)   INGREDIENT:huile d’olive
+75 ml (1/3 tasse) de vin blanc   QUANTITE:75 ml (1/3 tasse)   INGREDIENT:vin blanc
+250 ml (1 tasse) de bouillon de poulet   QUANTITE:250 ml (1 tasse)   INGREDIENT:bouillon de poulet
+16 petites palourdes dans leur coquille, rincées   QUANTITE:16   INGREDIENT:petites palourdes
+2,5 ml (1/2 c. à thé) de safran   QUANTITE:2,5 ml (1/2 c. à thé)   INGREDIENT:safran
+1 kg (2 lb) de moules, lavées et nettoyées   QUANTITE:1 kg (2 lb)   INGREDIENT:moules
+340 g (3/4 lb) de langoustines surgelées et décongelées (voir note)   QUANTITE:340 g (3/4 lb)   INGREDIENT:langoustines surgelées
+454 g (1 lb) d’asperges moyennes coupées en tronçons de 2 cm (3/4 po)   QUANTITE:454 g (1 lb)   INGREDIENT:asperges moyennes
+250 ml (1 tasse) de tomates cerises jaunes, coupées en deux   QUANTITE:250 ml (1 tasse)   INGREDIENT:tomates cerises jaunes
+30 ml (2 c. à soupe) de persil plat ciselé   QUANTITE:30 ml (2 c. à soupe)   INGREDIENT:persil plat
+30 ml (2 c. à soupe) de beurre, ramolli (facultatif)   QUANTITE:30 ml (2 c. à soupe) (facultatif)   INGREDIENT:beurre
+Croûtons à l’huile d’olive   QUANTITE:   INGREDIENT:Croûtons à l’huile d’olive
+12 tranches de pain baguette d’environ 1,5 cm (1/2 po) d’épaisseur   QUANTITE:12 tranches   INGREDIENT:pain baguette
+1 gousse d’ail, pelée et coupée en deux   QUANTITE:1 gousse   INGREDIENT:ail
+60 ml (1/4 tasse) d’huile d’olive   QUANTITE:60 ml (1/4 tasse)   INGREDIENT:huile d’olive
+300 g de pâte brisée   QUANTITE:300 g   INGREDIENT:pâte brisée
+Beurre pour fonçage   QUANTITE:   INGREDIENT:Beurre
+300 g de tomates cerises rouges   QUANTITE:300 g   INGREDIENT:tomates cerises rouges
+300 g de tomates cerises jaunes   QUANTITE:300 g   INGREDIENT:tomates cerises jaunes
+30 g de sucre semoule   QUANTITE:30 g   INGREDIENT:sucre semoule
+3 c. à .s d’eau   QUANTITE:3 c. à .s   INGREDIENT:eau
+5 c. à .s de vinaigre balsamique   QUANTITE:5 c. à .s   INGREDIENT:vinaigre balsamique
+2 gousses d’ail   QUANTITE:2 gousses   INGREDIENT:ail
+200 g de ricotta   QUANTITE:200 g   INGREDIENT:ricotta
+Quelques sommités de basilic   QUANTITE:Quelques sommités   INGREDIENT:basilic
+Huile d'olive   QUANTITE:   INGREDIENT:Huile d'olive
+Sel   QUANTITE:   INGREDIENT:Sel
+Poivre du moulin   QUANTITE:   INGREDIENT:Poivre du moulin
+En amont : préparation des poissons   QUANTITE:   INGREDIENT:
+6 poireaux   QUANTITE:6   INGREDIENT:poireaux
+250 g de petits champignons de Paris   QUANTITE:250 g   INGREDIENT:petits champignons de Paris
+75 g de lard fumé   QUANTITE:75 g   INGREDIENT:lard fumé
+Préparation des poissons   QUANTITE:   INGREDIENT:
+4 tranches de congre 150 g   QUANTITE:4 tranches (150g)   INGREDIENT:congre
+4 tranches de lotte de 150 g   QUANTITE:4 tranches (150g)   INGREDIENT:lotte
+4 tronçons de roussette de 150 g   QUANTITE:4 tronçons (150g)   INGREDIENT:roussette
+Préparation de la matelote   QUANTITE:   INGREDIENT:
+4 verres de Gewurztraminer   QUANTITE:4 verres   INGREDIENT:Gewurztraminer
+Finition et présentation   QUANTITE:   INGREDIENT:
+25 cl de crème liquide   QUANTITE:25 cl   INGREDIENT:crème liquide
+2 avocats   QUANTITE:2   INGREDIENT:avocats
+50 ml de citron yuzu   QUANTITE:50 ml   INGREDIENT:citron yuzu
+Préparation du ceviche   QUANTITE:   INGREDIENT:
+1 pièce de bar d'1 kg   QUANTITE:1 pièce (1 kg)   INGREDIENT:bar
+1 mangue   QUANTITE:1   INGREDIENT:mangue
+1 botte de cébette thaïlandaise   QUANTITE:1 botte   INGREDIENT:cébette thaïlandaise
+50 ml d'huile d'olive   QUANTITE:50 ml   INGREDIENT:huile d'olive
+sel au goût   QUANTITE:au goût   INGREDIENT:sel 
+Feuilles d'huîtres   QUANTITE:Feuilles   INGREDIENT:huîtres
+Quelques amandes torréfiées   QUANTITE:Quelques   INGREDIENT:amandes
+Feuille de basilic (au goût)   QUANTITE:Feuille (au goût)   INGREDIENT:basilic
+Huile végétale   QUANTITE:   INGREDIENT:Huile végétale
+1 oignon haché finement   QUANTITE:1   INGREDIENT:oignon
+1 boîte (540 ml) de tomates étuvées en cubes égouttées   QUANTITE:1 boîte (540 ml)   INGREDIENT:tomates étuvées en cubes
+1 gousse  d’ail émincée   QUANTITE:1 gousse   INGREDIENT:ail émincée
+1 c. à thé de thym séché   QUANTITE:1 c. à thé   INGREDIENT:thym séché
+1/2 c. à thé de sel   QUANTITE:1/2 c. à thé   INGREDIENT:sel
+1/2 c. à thé de poivre   QUANTITE:1/2 c. à thé   INGREDIENT:poivre
+250 ml (1 tasse) de bouillon de poulet   QUANTITE:250 ml (1 tasse)   INGREDIENT:bouillon de poulet
+6 saucisses italiennes grillées   QUANTITE:6   INGREDIENT:saucisses italiennes
+1 boîte (540 ml) de haricots blancs rincés et égouttés   QUANTITE:1 boîte (540 ml)   INGREDIENT:haricots blancs
+160 ml (2/3 tasse) de coriandre hachée finement ou de persil   QUANTITE:160 ml (2/3 tasse)   INGREDIENT:coriandre ou persil
+2 kg (4 lb) d’ailes de poulet   QUANTITE:2 kg (4 lb)   INGREDIENT:ailes de poulet
+500 ml (2 tasses) de vinaigrette César   QUANTITE:500 ml (2 tasses)   INGREDIENT:vinaigrette César
+45 ml (3 c. à soupe) de parmesan finement râpé   QUANTITE:45 ml (3 c. à soupe)   INGREDIENT:parmesan
+20 ml (4 c. à thé) de poivre noir frais moulu   QUANTITE:20 ml (4 c. à thé)   INGREDIENT:poivre noir
+Une pincée de sel   QUANTITE:Une pincée   INGREDIENT:sel
+1 demi-pain hamburger   QUANTITE:1 demi   INGREDIENT:pain hamburger
+30 g (1 oz) de jambon tranché   QUANTITE:30 g (1 oz)   INGREDIENT:jambon
+1 olive, tranchée   QUANTITE:1   INGREDIENT:olive
+2 rondelles de poivron   QUANTITE:2 rondelles   INGREDIENT:poivron
+30 g (1 oz) de mozzarella, tranchée   QUANTITE:30 g (1 oz)   INGREDIENT:mozzarella
+2 gousses d’ail hachées   QUANTITE:2 gousses   INGREDIENT:ail hachées
+1 œuf   QUANTITE:1   INGREDIENT:œuf
+4 gousses d'ail   QUANTITE:4 gousses   INGREDIENT:ail
+2 ciboulettes   QUANTITE:2   INGREDIENT:ciboulettes
+2 c.à.c de sel   QUANTITE:2 c.à.c de   INGREDIENT:sel
+3 c.à.s de sauce de soja claire   QUANTITE:3 c.à.s   INGREDIENT:sauce de soja claire
+3 c.à.s de vinaigre   QUANTITE:3 c.à.s   INGREDIENT:vinaigre
+1 c.à.s de sucre   QUANTITE:1 c.à.s   INGREDIENT:sucre
+4 c.à.s de pâte de soja   QUANTITE:4 c.à.s   INGREDIENT:pâte de soja
+3 piments   QUANTITE:3   INGREDIENT:piments
+1 œuf   QUANTITE:1   INGREDIENT:œuf
+3 c.à.s de sauce salade   QUANTITE:3 c.à.s   INGREDIENT:sauce salade
+du sel du poivre   QUANTITE:   INGREDIENT:sel poivre
+des chapelures   QUANTITE:   INGREDIENT:chapelures
+Huile de tournesol   QUANTITE:   INGREDIENT:Huile de tournesol
+4 c.à.s de sauce de tomate   QUANTITE:4 c.à.s   INGREDIENT:sauce de tomate
+500 g de farine   QUANTITE:500 g   INGREDIENT:farine
+500 g de poitrine de porc   QUANTITE:500 g   INGREDIENT:poitrine de porc
+1/2 poivron vert   QUANTITE:1/2   INGREDIENT:poivron vert
+½ c.à.c de levain   QUANTITE:½ c.à.c   INGREDIENT:levain
+1 c.à.s d’huile de tournesol   QUANTITE:1 c.à.s   INGREDIENT:huile de tournesol
+3 coriandres   QUANTITE:3   INGREDIENT:coriandres
+3 tranches de ciboulette   QUANTITE:3 tranches   INGREDIENT:ciboulette
+2 lamelles de gingembre   QUANTITE:2 lamelles   INGREDIENT:gingembre
+1 c.à.c de sucre   QUANTITE:1 c.à.c   INGREDIENT:sucre
+2 c.à.c de sel   QUANTITE:2 c.à.c   INGREDIENT:sel
+la sauce mixte (à volonté)   QUANTITE:à volonté   INGREDIENT:la sauce mixte
+1 c.à.s de sauce de soja foncée   QUANTITE:1 c.à.s   INGREDIENT:sauce de soja foncée
+2 c.à.s de sauce de soja claire de l’eau   QUANTITE:2 c.à.s   INGREDIENT:sauce de soja claire de l’eau
+quelques feuilles coriandre   QUANTITE:quelques feuilles   INGREDIENT:coriandre
+1 citron jaune   QUANTITE:1   INGREDIENT:citron jaune
+3 tomates moyennes   QUANTITE:3   INGREDIENT:tomates moyennes
+1 petit oignon   QUANTITE:1   INGREDIENT:petit oignon
+clou et cannelle au goût   QUANTITE:au goût   INGREDIENT:clou et cannelle
+1 botte de persil plat ou frisé   QUANTITE:1 botte   INGREDIENT:persil plat ou frisé
+1/3 botte de menthe fraîche   QUANTITE:1/3 botte   INGREDIENT:menthe fraîche
+eau   QUANTITE:   INGREDIENT:eau
+1 tasse de mélasse ou de sirop d'érable   QUANTITE:1 tasse   INGREDIENT:mélasse ou sirop d'érable
+1 verre à moutarde de boulghour (blé concassé)   QUANTITE:1 verre à moutarde   INGREDIENT:boulghour (blé concassé)
+huile d'olive   QUANTITE:   INGREDIENT:huile d'olive
+sel et poivre   QUANTITE:   INGREDIENT:sel et poivre
+170 g de pois chiches secs (surtout pas en boîte)   QUANTITE:170 g   INGREDIENT:pois chiches secs
+2 gousses d'ail   QUANTITE:2 gousses   INGREDIENT:ail
+15 g de persil plat   QUANTITE:15 g   INGREDIENT:persil plat
+15 g de coriandre   QUANTITE:15 g   INGREDIENT:coriandre
+1/4 d'oignon   QUANTITE:1/4   INGREDIENT:oignon
+1/2 cuillère à café de bicarbonate   QUANTITE:1/2 cuillère à café   INGREDIENT:bicarbonate
+1/2 cuillère à café de graines de sésame dorées   QUANTITE:1/2 cuillère à café   INGREDIENT:graines de sésame dorées
+1 cuillère à café de coriandre moulue   QUANTITE:1 cuillère à café   INGREDIENT:coriandre moulue
+1 cuillère à café de cumin en poudre   QUANTITE:1 cuillère à café   INGREDIENT:cumin en poudre
+1/2 cuillère à café de piment en poudre   QUANTITE:1/2 cuillère à café   INGREDIENT:piment en poudre
+1 poulet de 1,2 Kg   QUANTITE:1 (1,2 Kg)   INGREDIENT:poulet
+5 gousses d'ail   QUANTITE:5 gousses   INGREDIENT:ail
+ail au goût   QUANTITE:au goût   INGREDIENT:ail
+1 bouquet de menthe   QUANTITE:1 bouquet   INGREDIENT:menthe
+2 grands oignons   QUANTITE:2   INGREDIENT:grands oignons
+une petite tasse de riz rond   QUANTITE:une petite tasse   INGREDIENT:riz rond
+1 noix de muscade râpée   QUANTITE:1 noix   INGREDIENT:muscade
+le jus d'un citron   QUANTITE:un   INGREDIENT:citron
+1 noix de muscade râpée   QUANTITE:1 noix   INGREDIENT:muscade
+Carottes   QUANTITE:   INGREDIENT:Carottes
+1 c. à soupe de beurre   QUANTITE:1 c. à soupe   INGREDIENT:beurre
+2 c. à thé de sucre   QUANTITE:2 c. à thé   INGREDIENT:sucre
+1/2 c. à thé de gingembre moulu   QUANTITE:1/2 c. à thé   INGREDIENT:gingembre moulu
+1/2 c. à thé de sucre   QUANTITE:1/2 c. à thé   INGREDIENT:sucre
+2 c. à thé de persil   QUANTITE:2 c. à thé   INGREDIENT:persil
+1 pincée de thym   QUANTITE:1 pincée   INGREDIENT:thym
+3 c. à soupe de crème   QUANTITE:3 c. à soupe   INGREDIENT:crème
+1 chou   QUANTITE:1   INGREDIENT:chou
+3 c. à soupe de beurre   QUANTITE:3 c. à soupe   INGREDIENT:beurre
+3. à soupe de farine   QUANTITE:3. à soupe   INGREDIENT:farine
+3 tasses de lait   QUANTITE:3 tasses   INGREDIENT:lait
+1 oignon émincé   QUANTITE:1   INGREDIENT:oignon
+1 pincée d'anis   QUANTITE:1 pincée   INGREDIENT:anis
+3 c. à soupe de fromage râpé   QUANTITE:3 c. à soupe   INGREDIENT:fromage râpé
+4 pintes de bleuets   QUANTITE:4 pintes   INGREDIENT:bleuets
+4 pintes d'eau   QUANTITE:4 pintes   INGREDIENT:eau
+4 lb de sucre   QUANTITE:4 lb   INGREDIENT:sucre
+1 tasse de mûres   QUANTITE:1 tasse   INGREDIENT:mûres
+1 enveloppe de levure sèche   QUANTITE:1 enveloppe   INGREDIENT:levure sèche
+4 tasses de cassis   QUANTITE:4 tasses   INGREDIENT:cassis
+1 gallon d'eau   QUANTITE:1 gallon   INGREDIENT:eau
+2 lb de sucre   QUANTITE:2 lb   INGREDIENT:sucre
+1/2 tasse de raisins secs   QUANTITE:1/2 tasse   INGREDIENT:raisins secs
+1 enveloppe de levure sèche   QUANTITE:1 enveloppe   INGREDIENT:levure sèche
+5 pintes d'eau chaude   QUANTITE:5 pintes   INGREDIENT:eau chaude
+5 lb de sucre   QUANTITE:5 lb   INGREDIENT:sucre
+3 oranges   QUANTITE:3   INGREDIENT:oranges
+3 citrons   QUANTITE:3   INGREDIENT:citrons
+3 pamplemousses   QUANTITE:3   INGREDIENT:pamplemousses
+3 bananes   QUANTITE:3   INGREDIENT:bananes
+2 lb de raisins secs   QUANTITE:2 lb   INGREDIENT:raisins secs
+1 enveloppe de levure sèche   QUANTITE:1 enveloppe   INGREDIENT:levure sèche
+1/2 gallon d'eau   QUANTITE:1/2 gallon   INGREDIENT:eau
+2 pintes de mélasse   QUANTITE:2 pintes   INGREDIENT:mélasse
+2 c. à soupe de crème de tartre   QUANTITE:2 c. à soupe   INGREDIENT:crème de tartre
+3 c. à soupe de levure   QUANTITE:3 c. à soupe   INGREDIENT:levure
+Zeste d'un citron   QUANTITE:un   INGREDIENT:citron
+2 tasse de sucre   QUANTITE:2 tasse   INGREDIENT:sucre
+1 citron tranché   QUANTITE:1   INGREDIENT:citron
+1 c. à soupe de levure   QUANTITE:1 c. à soupe   INGREDIENT:levure
+1 morceau de pastèques   QUANTITE:1 morceau   INGREDIENT:pastèques
+5 cl de rhum cubain   QUANTITE:5 cl   INGREDIENT:rhum cubain
+2 cl de jus de citrons verts   QUANTITE:2 cl   INGREDIENT:jus de citrons verts
+2 cl de liqueur de menthe blanche   QUANTITE:2 cl   INGREDIENT:liqueur de menthe blanche
+2 oz rhum   QUANTITE:2 oz   INGREDIENT:rhum
+1 cuillère à café sucre   QUANTITE:1 cuillère à café   INGREDIENT:sucre
+4 oz eau gazéifiée   QUANTITE:4 oz   INGREDIENT:eau gazéifiée
+4 glaçons écrasés   QUANTITE:4   INGREDIENT:glaçons
+0,5 jus de lime   QUANTITE:0,5   INGREDIENT:jus de lime
+4 à 5 feuilles de menthe fraîche   QUANTITE:4 à 5 feuilles   INGREDIENT:menthe fraîche
+100 g fraises congelées   QUANTITE:100 g   INGREDIENT:fraises congelées
+5 glaçons   QUANTITE:5   INGREDIENT:glaçons
+7,5 mL sucre blanc granulé   QUANTITE:7,5 mL   INGREDIENT:sucre blanc granulé
+30 mL jus de lime   QUANTITE:30 mL   INGREDIENT:jus de lime
+60 mL jus de citron   QUANTITE:60 mL   INGREDIENT:jus de citron
+60 mL 7Up   QUANTITE:60 mL   INGREDIENT:7Up
+30 mL rhum   QUANTITE:30 mL   INGREDIENT:rhum
+2 oz crème 10%   QUANTITE:2 oz   INGREDIENT:crème 10%
+1 oz à 2 oz rhum blanc   QUANTITE:1 oz à 2 oz   INGREDIENT:rhum blanc
+trait jus de citron ou de lime   QUANTITE:trait   INGREDIENT:jus de citron ou de lime
+Une quinzaine d’abricots frais   QUANTITE:Une quinzaine   INGREDIENT:abricots frais
+12 feuilles de menthe fraîche   QUANTITE:12 feuilles   INGREDIENT:menthe fraîche
+1 Bouquet de menthe, pour décorer   QUANTITE:1 Bouquet   INGREDIENT:menthe
+1 Rondelle de lime, pour décorer   QUANTITE:1 Rondelle   INGREDIENT:lime
+Le jus d’une demi-lime   QUANTITE:une demi   INGREDIENT:lime
